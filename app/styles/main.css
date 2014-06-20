@@ -1,0 +1,374 @@
+.background-one {
+  background-image: url("../images/header.jpg");
+  width: 1300px;
+  margin: 0 auto;
+  height: 500px; }
+
+.containerdef {
+  width: 960px;
+  margin: 0 auto;
+  text-align: center; }
+
+img.logo {
+  float: left;
+  padding-top: 15px; }
+
+.containerright {
+  padding-top: 15px; }
+
+.containerright a:link {
+  text-decoration: none;
+  color: #0a273f; }
+
+a.blog {
+  float: left;
+  padding-left: 20px;
+  padding-top: 25px;
+  color: #0a273f; }
+
+a.blog:link {
+  text-decoration: none; }
+
+a.aboutright {
+  float: right;
+  padding-right: 15px; }
+
+a.searchright {
+  padding-right: 5px;
+  float: right; }
+
+img.imageright {
+  float: right; }
+
+.header {
+  padding-right: 15px;
+  padding-top: 86px;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 80px;
+  color: white; }
+
+.header2 {
+  font-size: 12px;
+  margin: -94px;
+  padding-right: -12px;
+  color: #0a2741; }
+
+.containerA {
+  width: 960px;
+  margin: 0 auto; }
+
+.containerb {
+  width: 550px;
+  margin: 0 auto;
+  float: left; }
+
+.containerb h1 {
+  color: #0c2741;
+  float: left;
+  margin: 0 auto;
+  font-family: 'Oswald', sans-serif;
+  font-size: 55px;
+  text-align: left;
+  padding-top: 0px;
+  color: #0c2741; }
+
+a.containerbl:link {
+  color: #90a3b1; }
+
+.pgtext {
+  font-family: 'Abel', sans-serif;
+  color: #767a7f;
+  line-height: 22.5px; }
+
+.cbquote {
+  border-left: 3px solid #ABAFB3;
+  font-size: 30px;
+  font: bold;
+  font-size: 22px;
+  padding-left: 16px;
+  color: #0d4ea0;
+  font-family: 'Droid Sans', sans-serif;
+  margin-left: 0px; }
+
+.amleft {
+  height: 23px;
+  width: 23px;
+  padding-bottom: 2px; }
+
+.amtext {
+  font-family: 'Droid Sans', sans-serif;
+  color: #1257a4; }
+
+a.blogdate:link {
+  text-decoration: underline;
+  color: #90a3b1; }
+
+.catlink2 {
+  text-decoration: underline;
+  color: #1f74b5; }
+
+.rcs {
+  background-color: #92a4b1;
+  color: white;
+  text-decoration: none;
+  margin-right: 0px;
+  margin-left: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px; }
+
+img.rcss {
+  background-color: #4c555c;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  background-size: 12px; }
+
+.containerc {
+  width: 260px;
+  margin: 100px auto 0px;
+  float: right;
+  padding: 0;
+  text-align: center;
+  background-color: transparent; }
+
+.containerc img {
+  margin: 0 auto; }
+
+.containerc h1 {
+  color: blue;
+  float: right;
+  margin: 0 auto;
+  font-family: 'Droid Sans', sans-serif;
+  color: #1257a4;
+  margin: 0 auto;
+  font-size: 23px; }
+
+.annemarier {
+  font-size: 18px;
+  font-family: 'Droid Sans', sans-serif;
+  color: #1257a4; }
+
+a.tfbig:link {
+  text-decoration: none;
+  color: #a9b7c2;
+  font-family: 'Oswald', sans-serif; }
+
+.ad {
+  padding-top: 50px; }
+
+a.aboutad:link {
+  text-decoration: underline;
+  color: #a9b7c2;
+  text-align: right; }
+
+.ad3 {
+  text-align: right; }
+
+.headlineright {
+  text-align: left;
+  font-size: 20px;
+  color: #02449c;
+  font-family: 'Oswald', sans-serif;
+  padding-top: 40px; }
+  .headlineright .pgtext2 a {
+    font-size: 14px; }
+
+.pgtext2 {
+  font-family: 'Abel', sans-serif;
+  color: #93a5b2;
+  line-height: 22.5px;
+  text-align: left; }
+
+.containerD {
+  width: 0px;
+  margin: 0 auto; }
+
+.heading3 {
+  text-align: center;
+  font-family: 'Oswald', sans-serif; }
+
+.containerD {
+  width: 1321px;
+  height: 490px;
+  margin: 100px auto 0px;
+  float: left;
+  padding: 0;
+  text-align: center;
+  background-color: transparent;
+  border-top: 1px solid #e8ecee; }
+
+.containerD img {
+  margin: 0 auto; }
+
+h3 {
+  color: #0c2741;
+  margin: 0 auto;
+  font-family: 'Oswald', sans-serif;
+  margin: auto 0px;
+  font-size: 57px;
+  padding-top: 40px;
+  padding-bottom: 40px; }
+
+.articlescontainer {
+  text-align: center;
+  height: 417px;
+  width: 1321px;
+  margin: 0;
+  background-color: #003366; }
+
+.articlescontainer img {
+  float: left;
+  margin: 0px;
+  height: 325px;
+  width: 330px; }
+
+.ab {
+  margin: 0;
+  float: left; }
+
+.articlescontainer img:hover {
+  opacity: 0.4; }
+
+.aone {
+  background-color: blue;
+  opacity: 0.3;
+  width: 330px;
+  height: 325px;
+  position: absolute; }
+
+.aone:hover {
+  opacity: 0.0; }
+
+.cone {
+  width: 330px;
+  height: 325px;
+  position: absolute; }
+
+.ctone {
+  color: white;
+  float: left;
+  font-size: 28px;
+  margin-top: 265px;
+  font-family: 'Oswald', sans-serif; }
+
+.atwo {
+  background-color: blue;
+  opacity: 0.3;
+  float: left;
+  width: 330px;
+  height: 325px;
+  position: absolute;
+  right: 612px; }
+
+.atwo:hover {
+  opacity: 0.0; }
+
+.ctwo {
+  width: 330px;
+  height: 325px;
+  position: absolute;
+  left: 338px;
+  text-align: left; }
+
+.cttwo {
+  color: white;
+  font-size: 34px;
+  margin-top: 265px;
+  font-family: 'Oswald', sans-serif;
+  left: -11px;
+  text-align: left; }
+
+.athree {
+  background-color: blue;
+  opacity: 0.3;
+  float: left;
+  width: 330px;
+  height: 325px;
+  position: absolute;
+  left: 668px; }
+
+.athree:hover {
+  opacity: 0.0; }
+
+.cthree {
+  width: 330px;
+  height: 325px;
+  position: absolute;
+  left: 668px;
+  text-align: left; }
+
+.ctthree {
+  color: white;
+  float: left;
+  font-size: 34px;
+  padding-top: 200px;
+  margin-left: 0px;
+  text-align: bottom;
+  font-family: 'Oswald', sans-serif; }
+
+.afour {
+  background-color: blue;
+  opacity: 0.3;
+  float: left;
+  width: 330px;
+  height: 325px;
+  position: absolute;
+  left: 998px; }
+
+.afour:hover {
+  opacity: 0.0; }
+
+.cfour {
+  width: 330px;
+  height: 325px;
+  position: absolute;
+  left: 998px; }
+
+.ctfour {
+  color: white;
+  float: left;
+  font-size: 28px;
+  margin-top: 265px;
+  font-family: 'Oswald', sans-serif; }
+
+h3 {
+  font-family: 'oswald';
+  margin-left: 20px; }
+
+.foot {
+  width: 500px;
+  background-color: #003366;
+  float: left; }
+
+.containerE {
+  width: 1321px;
+  float: left;
+  padding-top: 30px; }
+
+.containerEcontent {
+  width: 960px;
+  height: auto;
+  margin: 0 auto; }
+
+.blogo {
+  float: left; }
+
+.footertext:p {
+  float: right; }
+
+.footertext2 {
+  color: #92a4b1;
+  font-family: 'Oswald', sans-serif;
+  font-size: 12px;
+  margin-left: 10px;
+  padding-top: 3px; }
+
+a.navbar:link {
+  text-decoration: none; }
+
+.navbar {
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  color: #92a4b1;
+  text-align: right; }
