@@ -1,5 +1,9 @@
 $blue:blue;
 
+@mixin color($mixcolor:rgb(169,  183,    194)) {
+ color: $mixcolor
+}
+
 .background-one {
     background-image:url('../images/header.jpg');
     width: 1300px;
@@ -188,8 +192,8 @@ img.rcss {
 }
 
 a.tfbig:link {
+  @include color(rgb(169,  183,    194));
     text-decoration:none;
-    color:rgb(169,  183,    194);
     font-family: 'Oswald', sans-serif;
 }
 
@@ -198,8 +202,8 @@ a.tfbig:link {
 }
 
 a.aboutad:link {
+  @include color(rgb(169,  183,    194));
     text-decoration:underline;
-    color:rgb(169,  183,    194);
     text-align:right;
 }
 
@@ -311,13 +315,13 @@ h3 {
 }
 
 .atwo {
-    background-color: blue;
+  background-color: blue;
   opacity: 0.3;
   float: left;
   width: 330px;
   height: 325px;
   position: absolute;
-  right: 612px; 
+  right: 607px; 
 }
 
 .atwo:hover {
