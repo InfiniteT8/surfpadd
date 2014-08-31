@@ -131,3 +131,9 @@ gulp.task('watch', ['connect', 'serve'], function () {
     gulp.watch('app/images/**/*', ['images']);
     gulp.watch('bower.json', ['wiredep']);
 });
+
+
+// Push a subtree from our `dist` folder
+gulp.task('deploy', function() {
+  exec('git subtree push --prefix dist origin gh-pages');
+});
